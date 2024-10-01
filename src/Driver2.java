@@ -8,7 +8,7 @@ public class Driver2 {
 		
 		Glad.veryGlad();
 		Hungry.veryHungry();
-		
+		sad.verySad();
 
 	}
 
