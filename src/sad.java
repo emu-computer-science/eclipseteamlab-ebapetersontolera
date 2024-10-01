@@ -4,6 +4,10 @@ public class sad {
         System.out.println("We are feeling sad");
         
     }
+	
+	public static void verySad() {
+        System.out.println("We are feeling very sad!");
+    }
 
 
 }
