@@ -1,6 +1,6 @@
 public class Hungry {
 	
-	public static void glad() {
+	public static void hungry() {
         System.out.println("We are feeling hungry");
         
     }
